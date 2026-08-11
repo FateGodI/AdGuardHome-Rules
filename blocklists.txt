@@ -89,3 +89,10 @@
 ||bktw021.top^$important
 ||tmead.y.qq.com^$important
 ||ichannel.snssdk.com^$important
+||oth.eve.mdt.qq.com^$important
+||tz.sec.xiaomi.com^$important
+||ccc.sys.miui.com^$important
+||th.bing.com^$important
+||*tsdk.vivo.com.cn^$important
+||qqdata.ab.qq.com^$important
+||vcode-api-fnk.vivo.com.cn^$important
