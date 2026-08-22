@@ -4,30 +4,30 @@
 #                      #
 ########################
 #
-@@||ouo.io^$important  #OUO跳转获利
-@@||ouo.press^$important  #OUO跳转获利
-@@||update.pan.baidu.com^$important  #百度网盘更新
-@@||www.ludashi.com^$important  #鲁大师主站域名
-@@||cdn-file-ssl-pc.ludashi.com^$important  #鲁大师下载域名
-@@||gh-proxy.org^$important  #GH代理加速
-@@||www.baidu.com^$important  #百度搜索
-@@||www.bilibili.com^$important  #BiliBili主站域名
-@@||douyin.com^$important  #抖音WEB主域
-@@||search.bilibili.com^$important  #B站搜索子域
-@@||dlweb.sogoucdn.com^$important  #搜狗翻译相关
-@@||broadcast.chat.bilibili.com^$important  #B站弹幕相关
-@@||mp.weixin.qq.com^$important  #微信公众号
-@@||*.bilivideo.com^$important  #B站视频存储主域
-@@||*.bsncdn.ai^$important   #不死鸟CDN
-@@||*.bsncdn.net^$important  #不死鸟CDN
-@@||juejin.cn^$important  #掘金主站域名
-@@||douyinpic.com^$important  #WEB抖音预览图相关
-@@||p3-webcast.douyinpic.com^$important  #WEB抖音预览图相关
-@@||pull-flv-l11.douyincdn.com^$important  #WEB抖音视频相关
-@@||github.com^$important  #GITHUB官方域名
-@@||link.csdn.net^$important  #CSDN安全校验
-@@||activity.hdslb.com^$important  #B站活动页面相关
-@@||ecombdapi.com^$important  #抖音商城搜索
+@@||ouo.io^  # OUO跳转获利
+@@||ouo.press^  # OUO跳转获利
+@@||update.pan.baidu.com^  # 百度网盘更新
+@@||www.ludashi.com^  # 鲁大师主站域名
+@@||cdn-file-ssl-pc.ludashi.com^  # 鲁大师下载域名
+@@||gh-proxy.org^  # GH代理加速
+@@||www.baidu.com^  # 百度搜索
+@@||www.bilibili.com^  # BiliBili主站域名
+@@||douyin.com^  # 抖音WEB主域
+@@||search.bilibili.com^  # B站搜索子域
+@@||dlweb.sogoucdn.com^  # 搜狗翻译相关
+@@||broadcast.chat.bilibili.com^  # B站弹幕相关
+@@||mp.weixin.qq.com^  # 微信公众号
+@@||*.bilivideo.com^  # B站视频存储主域
+@@||*.bsncdn.ai^   # 不死鸟CDN
+@@||*.bsncdn.net^  # 不死鸟CDN
+@@||juejin.cn^  # 掘金主站域名
+@@||douyinpic.com^  # WEB抖音预览图相关
+@@||p3-webcast.douyinpic.com^  # WEB抖音预览图相关
+@@||pull-flv-l11.douyincdn.com^  # WEB抖音视频相关
+@@||github.com^  # GITHUB官方域名
+@@||link.csdn.net^  # CSDN安全校验
+@@||activity.hdslb.com^  # B站活动页面相关
+@@||ecombdapi.com^  # 抖音商城搜索
 
 
 
@@ -46,42 +46,42 @@
 #
 #
 #
-#  @@||mmgame.qpic.cn^$important
-#  @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
-#  @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
-#  @@||fp-it.portal101.cn^$important
-#  @@||log-sdk.clickwifi.net^$important
-#  @@||umc.danuoyi.alicdn.com^$important
-#  @@||browserplat.vivo.com.cn^$important
-#  @@||mmgame.qpic.cn^$important
-#  @@||api.feelgood.cn^$important
-#  @@||abtest3-misc.zijieapi.com^$important
-#  @@||ma.zijieapi.com^$important
-#  @@||zlink.toutiao.com^$important
-#  @@||config-proxy-bak.kwd.inkuai.com^$important
-#  @@||zt-sup.kwd.inkuai.com^$important
-#  @@||gtm.deepl.com^$important
-#  @@||a1.qpic.cn^$important
-#  @@||www.9game.cn^$important
-#  @@||adxpansion.com^$important
-#  @@||juicyads.com^$important
-#  @@||soft.wsyhn.com^$important
+#  @@||mmgame.qpic.cn^
+#  @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
+#  @@||apd-pcdnwxstat.teg.tencent-cloud.net^
+#  @@||fp-it.portal101.cn^
+#  @@||log-sdk.clickwifi.net^
+#  @@||umc.danuoyi.alicdn.com^
+#  @@||browserplat.vivo.com.cn^
+#  @@||mmgame.qpic.cn^
+#  @@||api.feelgood.cn^
+#  @@||abtest3-misc.zijieapi.com^
+#  @@||ma.zijieapi.com^
+#  @@||zlink.toutiao.com^
+#  @@||config-proxy-bak.kwd.inkuai.com^
+#  @@||zt-sup.kwd.inkuai.com^
+#  @@||gtm.deepl.com^
+#  @@||a1.qpic.cn^
+#  @@||www.9game.cn^
+#  @@||adxpansion.com^
+#  @@||juicyads.com^
+#  @@||soft.wsyhn.com^
 #  @@||prod.otel.kaizen.nvidia.com^
 #  @@||prod.otel.kaizen.nvidia.com^
 #  @@||api5-normal-sinfonlinec.fqnovel.com^
 #  @@||ogqjpifi.com^
 #  @@||a.chnsrv.com^
-#  @@||sdkoptedge.chinanetcenter.com^$important
-#  @@||w1.kskwai.com^$important
-#  @@||httpdns.c.cdnhwc2.com^$important
-#  @@||hdns.ksyun.com^$important
-#  @@||tx-p2p-v2.pull.yximgs.com^$important
-#  @@||p2-ad.adkwai.com^$important
-#  @@||chenzhongkj.com^$important
-#  @@||mon11-misc-lf.fqnovel.com^$important
-#  @@||n98-lf-cdn-tos-ncdn.bytegecko.com^$important
-#  @@||api5-normal-sinfonlineb.fqnovel.com^$important
-#  @@||bsync3-normal-hl.zijieapi.com^$important
-#  @@||saveu5-normal-hl.zijieapi.com^$important
+#  @@||sdkoptedge.chinanetcenter.com^
+#  @@||w1.kskwai.com^
+#  @@||httpdns.c.cdnhwc2.com^
+#  @@||hdns.ksyun.com^
+#  @@||tx-p2p-v2.pull.yximgs.com^
+#  @@||p2-ad.adkwai.com^
+#  @@||chenzhongkj.com^
+#  @@||mon11-misc-lf.fqnovel.com^
+#  @@||n98-lf-cdn-tos-ncdn.bytegecko.com^
+#  @@||api5-normal-sinfonlineb.fqnovel.com^
+#  @@||bsync3-normal-hl.zijieapi.com^
+#  @@||saveu5-normal-hl.zijieapi.com^
 #  
 #  
