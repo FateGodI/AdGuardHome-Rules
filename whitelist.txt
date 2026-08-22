@@ -17,11 +17,11 @@
 @@||dlweb.sogoucdn.com^  # 搜狗翻译相关
 @@||broadcast.chat.bilibili.com^  # B站弹幕相关
 @@||mp.weixin.qq.com^  # 微信公众号
-@@||bilivideo.com^  # B站视频存储主域
-@@||bsncdn.ai^   # 不死鸟CDN
-@@||bsncdn.net^  # 不死鸟CDN
-@@||juejin.cn^  # 掘金主站域名
-@@||douyinpic.com^  # WEB抖音预览图相关
+@@||*.bilivideo.com^  # B站视频存储主域
+@@||*.bsncdn.ai^   # 不死鸟CDN
+@@||*.bsncdn.net^  # 不死鸟CDN
+@@||*.juejin.cn^  # 掘金主站域名
+@@||*.douyinpic.com^  # WEB抖音预览图相关
 @@||p3-webcast.douyinpic.com^  # WEB抖音预览图相关
 @@||pull-flv-l11.douyincdn.com^  # WEB抖音视频相关
 @@||github.com^  # GITHUB官方域名
