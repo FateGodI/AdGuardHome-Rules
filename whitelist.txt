@@ -17,6 +17,7 @@ dlweb.sogoucdn.com # 搜狗翻译相关
 broadcast.chat.bilibili.com # B站弹幕评论更新相关
 mp.weixin.qq.com # 微信公众号
 bilivideo.com # B站视频存储主域
+upos-sz-mirrorcos.bilivideo.com # B站视频存储-深圳
 bsncdn.ai  # 不死鸟CDN
 bsncdn.net # 不死鸟CDN
 juejin.cn # 掘金主站域名
