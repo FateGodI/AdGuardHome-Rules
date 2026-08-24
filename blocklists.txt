@@ -84,10 +84,7 @@ i.ytimg.com
 #	个人使用屏蔽地址
 #
 #####################
-api.bc.domybox.com
-api.launcher.domybox.com
-netty.domybox.com
-data.domybox.com
+domybox.com
 oove.cn
 szminorshort.weixin.qq.com
 mime.baidu.com
@@ -112,3 +109,14 @@ vcode-api-fnk.vivo.com.cn
 mcdn.bilivideo.com
 mcdn.bilivideo.cn
 szbdyd.com
+#####################
+#
+#	  注释保留区
+#
+#####################
+#api.bc.domybox.com
+#api.launcher.domybox.com
+#netty.domybox.com
+#data.domybox.com
+#api.domybox.com
+#api.newgg.domybox.com
