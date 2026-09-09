@@ -30,7 +30,8 @@ activity.hdslb.com # B站活动页面相关
 ecombdapi.com # 抖音商城搜索
 www.baidu.com # 百度搜索
 staticsns.cdn.bcebos.com # 百度网盘PC端右上角个人页面/签到/权益中心-图片加载域名
-
+a.88cdn.com # 迅雷文件等图标域名
+storage.moegirl.org.cn # 萌娘百科用户头像/站点图片存储域名
 
 
 ########################
