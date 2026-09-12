@@ -33,6 +33,9 @@ staticsns.cdn.bcebos.com # 百度网盘PC端右上角个人页面/签到/权益�
 a.88cdn.com # 迅雷文件等图标域名
 storage.moegirl.org.cn # 萌娘百科用户头像/站点图片存储域名
 download.mozilla.org # 火狐浏览器下载域名
+tieba-ares.cdn.bcebos.com # 百度贴吧等级等图片
+
+
 
 
 ########################
